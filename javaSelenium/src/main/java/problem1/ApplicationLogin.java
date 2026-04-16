@@ -38,6 +38,12 @@ public class ApplicationLogin {
 		WebElement login = driver.findElement(By.xpath("//button[text()='Log in']"));
 		login.click();
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector("#logout2")));
+		String validate = driver.findElement(By.cssSelector("#logout2")).getText();
+		if (validate.equals("Log out")) {
+			System.out.println("Login Successful");
+		} else {
+			System.out.println("Login Unsuccessful");
+		}
 
 		WebElement laptop = driver.findElement(By.xpath("//a[text()='Laptops']"));
 		act.moveToElement(laptop).click().perform();
