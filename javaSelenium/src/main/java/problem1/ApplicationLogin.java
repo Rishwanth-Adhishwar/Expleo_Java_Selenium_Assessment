@@ -76,7 +76,6 @@ public class ApplicationLogin {
 		wait.until(ExpectedConditions.alertIsPresent());
 		driver.switchTo().alert().accept();
 
-		System.out.println("Product added to cart");
 		System.out.println(productTitle + " added to cart.");
 
 		driver.findElement(By.id("cartur")).click();
