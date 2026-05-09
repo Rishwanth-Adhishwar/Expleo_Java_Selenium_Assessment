@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-08T21:33:50 IST" name="Suite" finished-at="2026-05-08T21:35:12 IST" duration-ms="82655">
+    <groups>
+    </groups>
+    <test started-at="2026-05-08T21:33:50 IST" name="Test" finished-at="2026-05-08T21:35:12 IST" duration-ms="82655">
+      <class name="tests.Logintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:34:43 IST" name="setup" finished-at="2026-05-08T21:34:50 IST" duration-ms="6923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="vLoginTest(java.lang.String,java.lang.String)[pri:2, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:34:50 IST" name="vLoginTest" data-provider="vLogin" finished-at="2026-05-08T21:34:58 IST" duration-ms="7826" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishwa789@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rishwa2k26]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vLoginTest -->
+        <test-method is-config="true" signature="turnDown()[pri:0, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:34:58 IST" name="turnDown" finished-at="2026-05-08T21:34:58 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:34:58 IST" name="setup" finished-at="2026-05-08T21:35:06 IST" duration-ms="7821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="iVLoginTest(java.lang.String,java.lang.String)[pri:3, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:35:06 IST" name="iVLoginTest" data-provider="inLogin" finished-at="2026-05-08T21:35:12 IST" duration-ms="6207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishwa789@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tn2027]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iVLoginTest -->
+        <test-method is-config="true" signature="turnDown()[pri:0, instance:tests.Logintest@49ff7d8c]" started-at="2026-05-08T21:35:12 IST" name="turnDown" finished-at="2026-05-08T21:35:12 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnDown -->
+      </class> <!-- tests.Logintest -->
+      <class name="tests.Registertest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:33:50 IST" name="setup" finished-at="2026-05-08T21:34:07 IST" duration-ms="16524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newRegister(java.lang.String,java.lang.String)[pri:0, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:34:07 IST" name="newRegister" data-provider="newRegister" finished-at="2026-05-08T21:34:17 IST" duration-ms="9842" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishwanth16]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rishwa789@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newRegister -->
+        <test-method is-config="true" signature="turnDown()[pri:0, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:34:17 IST" name="turnDown" finished-at="2026-05-08T21:34:17 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:34:17 IST" name="setup" finished-at="2026-05-08T21:34:38 IST" duration-ms="21212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidRegister(java.lang.String,java.lang.String)[pri:1, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:34:38 IST" name="invalidRegister" data-provider="duplicateRegister" finished-at="2026-05-08T21:34:43 IST" duration-ms="4854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rishwa789@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidRegister -->
+        <test-method is-config="true" signature="turnDown()[pri:0, instance:tests.Registertest@60856961]" started-at="2026-05-08T21:34:43 IST" name="turnDown" finished-at="2026-05-08T21:34:43 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- turnDown -->
+      </class> <!-- tests.Registertest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
