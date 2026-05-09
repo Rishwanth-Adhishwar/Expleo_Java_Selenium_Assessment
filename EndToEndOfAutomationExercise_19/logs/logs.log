@@ -1,0 +1,82 @@
+[INFO ] 2026-05-08 20:46:38.456 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:46:43.324 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:46:52.366 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:46:52.367 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:46:52.408 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:46:56.493 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:46:56.494 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:46:56.559 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:47:09.844 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 20:47:11.509 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 20:47:22.015 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 20:47:22.202 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:47:23.047 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:47:23.048 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:47:23.077 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:47:23.241 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 20:47:24.254 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:47:24.920 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:47:24.921 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:47:24.966 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:47:37.867 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 20:47:39.586 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 20:47:44.825 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 20:47:45.051 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:47:45.800 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:47:45.800 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:47:45.835 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:47:56.338 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 20:48:31.666 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 20:48:32.017 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 20:48:32.895 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 20:48:32.895 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 20:48:32.941 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 20:48:33.370 [main] BaseTest - Searching product
+[INFO ] 2026-05-08 20:48:53.474 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 20:48:54.952 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:07:26.083 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:07:33.332 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:07:37.224 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:08:42.065 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:08:46.743 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:08:50.831 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:10:52.365 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:10:58.882 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:11:02.610 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:11:41.363 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:11:47.059 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:11:50.597 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:16:16.914 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:16:18.235 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:16:18.235 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:16:18.276 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:17:02.038 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:17:31.569 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 21:17:31.676 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:17:32.385 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:17:32.385 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:17:32.425 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:17:36.965 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:32:54.767 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:32:56.243 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:32:56.243 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:32:56.288 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:33:04.848 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:35:35.087 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:35:36.195 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:35:36.195 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:35:36.238 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:35:53.316 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:36:27.391 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 21:36:27.692 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:36:28.458 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:36:28.458 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:36:28.501 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:36:35.922 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:37:07.898 [main] BaseTest - quitting driver
+[INFO ] 2026-05-08 21:37:08.169 [main] BaseTest - Setting Chrome Driver
+[INFO ] 2026-05-08 21:37:08.864 [main] BaseTest - Getting Chrome Driver
+[INFO ] 2026-05-08 21:37:08.864 [main] BaseTest - maximizing browser window
+[INFO ] 2026-05-08 21:37:08.903 [main] BaseTest - launching url in browser
+[INFO ] 2026-05-08 21:37:19.600 [main] BaseTest - Performin login
+[INFO ] 2026-05-08 21:38:57.359 [main] BaseTest - Searching product
